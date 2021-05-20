@@ -1,6 +1,6 @@
 ### Hi there, My name is Ram👋
 
-- 👨‍💻I am professional software developer in TCS working on CPQ IronPython.
+- 👨‍💻I am a professional software developer in TCS working on CPQ IronPython.
 - 🔭 I am always excited to learn new tech.
 - 📝 Currently I am learning react.
 - 🌱 I am also proficient in django.
